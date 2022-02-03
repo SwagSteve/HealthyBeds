@@ -1,0 +1,6 @@
+name: HealthyBeds
+version: ${project.version}
+main: me.swagsteve.healthybeds.HealthyBeds
+api-version: 1.16
+authors: [ SwagSteve ]
+description: Heal Yourself By Hopping In A Bed At Night!

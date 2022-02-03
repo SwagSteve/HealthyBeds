@@ -1,0 +1,2 @@
+#HealAmount = 1 To 20 (Amount You Want Players To Be Healed By, 1 Counts As Half A Heart, 20 Counts As Full HP)
+HealAmount: 20
