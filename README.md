@@ -1,6 +1,6 @@
 # HealthyBeds
 
-![alt text](https://www.spigotmc.org/attachments/bedsbanner-png.643033/)
+![alt text](https://i.postimg.cc/RZXY91MH/bedsbanner.png)
 
 ## A Simple Plugin That Heals The Player When They Sleep!
 
